@@ -18,7 +18,7 @@ The system comprises three primary components:
 2. **Backend Server**: The backend server processes user queries, interacts with the database to fetch or store data, and communicates with the OpenAI LLM for natural language processing. It acts as the bridge between the frontend and the AI model, ensuring efficient data flow and processing.
 
 3. **OpenAI LLM**: The OpenAI LLM (Language Model) is responsible for understanding user queries and generating appropriate responses. It's trained on vast amounts of data, enabling it to handle a wide range of user inputs with high accuracy.
-![System Architecture](https://app.noteable.io/gate/api/o/896b5724-8531-4100-9b2a-29482a5a16f2.png)
+![Screenshot 2023-09-24 022916](https://github.com/mufi2/Mobil_chatter_bot/assets/120253718/c98cd951-8371-4de8-a494-3b997143db7a)
 
 ### 2.2 Database Integration
 
