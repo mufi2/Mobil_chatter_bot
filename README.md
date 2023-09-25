@@ -80,7 +80,6 @@ As businesses continue to embrace digital transformation, solutions like the cha
 
 ### User Interface Mockup
 The following mockup represents a typical interaction between a user and the chatbot:
-
-![Screenshot 2023-09-24 023205](https://github.com/mufi2/Mobil_chatter_bot/assets/120253718/07c97b29-f628-4d2b-9033-5d6321547777)
+![Screenshot 2023-09-26 044254](https://github.com/mufi2/Mobil_chatter_bot/assets/120253718/fd7b99a7-e607-48c8-a73c-af32e7a0287b)
 
 In this interaction, the user inquires about placing an order, and the chatbot prompts the user to provide product details and quantity.
